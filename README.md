@@ -51,7 +51,7 @@ Back End:
 
 Example of Hibernate Configuration:
 
-![](mkimg/persist.png)
+![](mkimg/hibernateconfigexample.png)
 
 
 ## Usage
@@ -61,13 +61,13 @@ Visit each page as a employee or manager. To obtain access for a user that is a 
 Employee Homepage:
 
 
-![](mkimg/homepage.png)
+![](mkimg/employeehome.png)
 
 
 View User Reimbursements:
 
 
-![](mkimg/orderandmenu.png)
+![](mkimg/userreim.png)
 
 
 ## Contributors
